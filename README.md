@@ -1,2 +1,2 @@
 # ARKon
-A little program to RCON my ARK server
+* A little program to RCON my ARK server
